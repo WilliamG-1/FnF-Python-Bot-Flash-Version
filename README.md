@@ -1,7 +1,7 @@
 # FnF-Python-Bot-Flash-Version
 A bot to play Friday Night Funkin' (the flash version of the game)
 
-A dumb side project I made using the Pyautogui module. It's mostly for fun as it only works on the flash version of the game (The desktop version doesn't seem to accept input from
+A side project I made using the Pyautogui module. It's mostly for fun as it only works on the flash version of the game (The desktop version doesn't seem to accept input from
 pyautogui). It can beat most levels, except those with a bunch of hold notes. I made another one that does the hold notes, but it compromises the entire performance and 
 efficiency of the bot so it's kinda useless lol. 
 
